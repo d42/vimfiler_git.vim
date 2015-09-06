@@ -51,7 +51,7 @@ if !exists('g:VimFilerGitIndicatorMap')
                 \ "Unmerged"  : "═",
                 \ "Deleted"   : "✖",
                 \ "Dirty"     : "✗",
-                \ "Clean"     : "✔︎",
+                \ "Unmodified": "✔︎",
                 \ "Unknown"   : "?"
                 \ }
 endif
